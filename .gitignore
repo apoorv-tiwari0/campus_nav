@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Embeddings cache
+backend/data/embeddings/
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large dataset (DO NOT PUSH)
+dataset_raw/
+backend/data/images/
