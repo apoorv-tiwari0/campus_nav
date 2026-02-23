@@ -20,7 +20,10 @@ folders = [
     "CCDTARCHI",
     "ARCHITNC",
     "BHT5B",
-    "5BTOA"
+    "5BTOA",
+    "5BTSC",
+    "5BTTB",
+    "ARCHIT5B"
 ]
 
 previous_last = None
